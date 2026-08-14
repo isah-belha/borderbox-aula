@@ -1,0 +1,52 @@
+
+div{
+
+    border: 2px solid black;
+    width: 180px;
+    height: 80px;
+    display: inline-block;
+    padding-bottom: 70px;
+   
+}
+
+a {
+    border: 2px solid black;
+    padding-left: 18px;
+    padding-right: 18px;
+    display: inline;
+    padding-bottom: 20px; 
+    
+}
+
+*{
+    margin: 0px;
+    padding: 0px; 
+    box-sizing: border;
+}
+
+h1 {
+    margin: 0px;
+    padding: 19px;
+    padding-left: 0px;
+    padding-top: 40px;
+}
+
+h2{
+    margin: 0px;
+    padding: 19px;
+    padding-left: 0px;
+    padding-top: 20px;
+}
+
+span{
+    border: 2px solid black;
+}
+
+footer {
+    border: 2px solid black;
+    margin: 5px;
+    padding: 10px;
+    padding-top: 10px;
+
+}
+
